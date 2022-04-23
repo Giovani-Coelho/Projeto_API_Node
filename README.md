@@ -1,3 +1,5 @@
+Uma API simples feita com express
+
 Regras que a API deve seguir:
 
 ## Requisitos
