@@ -1,4 +1,4 @@
-### FinApi - Financeia
+Regras que a API deve seguir:
 
 ## Requisitos
 
@@ -10,6 +10,7 @@
 - [x] Deve ser possível atualizar dados da conta do cliente
 - [x] Deve ser possível obter dados da conta do cliente
 - [x] Deve ser possível deletar uma conta
+
   ## Regras de negócio
 - [x] Não deve ser possível cadastrar uma conta com CPF já existente
 - [x] Não deve ser possível fazer depósito em uma conta não existente
